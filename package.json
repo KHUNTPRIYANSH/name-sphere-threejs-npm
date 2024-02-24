@@ -1,5 +1,5 @@
 {
-  "name": "@KHUNTPRIYANSH/name-sphere-threejs-npm",
+  "name": "KHUNTPRIYANSH/name-sphere-threejs-npm",
   "version": "0.1.0",
   "description": "A package for creating word clouds on a sphere using Three.js and React",
   "main": "src/index.js",
