@@ -1,8 +1,29 @@
 {
   "name": "name-sphere-threejs",
   "version": "0.1.0",
+  "description": "A package for creating word clouds on a sphere using Three.js and React",
   "main": "src/index.js",
-  "private": false,
+  "author": {
+    "name": "Priyansh Khunt",
+    "email": "khuntpriyansh1@gmail.com",
+    "url": "https://github.com/KHUNTPRIYANSH"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "sphere",
+    "3d",
+    "word cloud",
+    "visualization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KHUNTPRIYANSH/name-sphere-threejs"
+  },
+  "bugs": {
+    "url": "https://github.com/KHUNTPRIYANSH/name-sphere-threejs/issues"
+  },
+  "homepage": "https://github.com/KHUNTPRIYANSH/name-sphere-threejs#readme",
   "dependencies": {
     "@react-three/drei": "^9.99.3",
     "@react-three/fiber": "^8.15.16",
