@@ -1,8 +1,8 @@
 {
   "name": "name-sphere-threejs-npm",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A package for creating word clouds on a sphere using Three.js and React",
-  "main": "src/index.js",
+  "main": "src/NameSphere.jsx",
   "author": {
     "name": "Priyansh Khunt",
     "email": "khuntpriyansh1@gmail.com",
@@ -40,15 +40,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js",
     "publish": "npm run build && npm publish"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.23.9",
-    "@babel/preset-env": "^7.23.9",
-    "@babel/preset-react": "^7.23.3",
-    "babel-loader": "^8.3.0",
-    "webpack": "^5.90.3",
-    "webpack-cli": "^4.10.0"
   }
 }
