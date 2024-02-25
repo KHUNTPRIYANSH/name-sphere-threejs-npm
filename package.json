@@ -1,6 +1,6 @@
 {
   "name": "name-sphere-threejs-npm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A package for creating word clouds on a sphere using Three.js and React",
   "main": "src/NameSphere.jsx",
   "author": {
